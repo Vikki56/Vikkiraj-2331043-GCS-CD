@@ -11,3 +11,6 @@ class Solution {
             System.out.println(findElementAtIndex(key, arr));
     }
 }
+# understand
+about git hub
+
